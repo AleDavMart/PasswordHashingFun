@@ -1,0 +1,20 @@
+{
+  "name": "passwordhashingfun",
+  "version": "1.0.0",
+  "description": "Practicing Password Hashing Methods in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node MD5Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleDavMart/PasswordHashingFun.git"
+  },
+  "author": "Ale Davalos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleDavMart/PasswordHashingFun/issues"
+  },
+  "homepage": "https://github.com/AleDavMart/PasswordHashingFun#readme"
+}
