@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node MD5Test.js"
+    "start":"node passwordHashingTests.js"
   },
   "repository": {
     "type": "git",
